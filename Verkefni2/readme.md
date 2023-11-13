@@ -2,7 +2,6 @@
 # Leikjaforritun 2023
 
 # **Verkefni 2**
-Linkur á myndband 1 = https://screenpal.com/watch/c06vFYVEm5y 
 
-youtube linkur myndband 1 = https://youtu.be/Y418WSr5uxM
+youtube linkur myndband  = [https://www.youtube.com/watch?v=g1NmhC1QymA&ab_channel=myMain](https://youtu.be/g1NmhC1QymA)https://youtu.be/g1NmhC1QymA
 
